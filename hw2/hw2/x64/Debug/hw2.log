@@ -1,0 +1,58 @@
+﻿  HW2.cpp
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:  'argument': conversion from 'const _Tp' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:             _Tp=int
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         and
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,45): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:  'argument': conversion from 'const _Tp' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:             _Tp=int
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         and
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(69,39): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(88,24): warning C4244:  'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(88,24): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(88,24): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(88,24): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(88,24): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,40): warning C4244:  'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,40): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,40): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,40): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,40): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,24): warning C4244:  'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,24): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,24): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,24): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(89,24): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(90,27): warning C4244:  'argument': conversion from 'int' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(90,27): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(90,27): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(90,27): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(90,27): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:  'argument': conversion from 'const _Tp' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         and
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:             _Tp=int
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,40): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:  'argument': conversion from 'const _Tp' to '_Tp', possible loss of data
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         with
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:             _Tp=float
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         ]
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         and
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         [
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:             _Tp=int
+C:\Дурачок\1 курс\КЗ\hw2\hw2\HW2.cpp(100,34): warning C4244:         ]
+  hw2.vcxproj -> C:\Дурачок\1 курс\КЗ\hw2\x64\Debug\hw2.exe
