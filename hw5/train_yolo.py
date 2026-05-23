@@ -10,8 +10,8 @@ if not os.path.exists('C:/Дурачок/1 курс/КЗ/hw5/people_dataset/imag
 image_files = [f for f in os.listdir('C:/Дурачок/1 курс/КЗ/hw5/people_dataset/images') if f.endswith('.jpg')]
 label_files = [f for f in os.listdir('C:/Дурачок/1 курс/КЗ/hw5/people_dataset/labels') if f.endswith('.txt')]
 
-print(f"📁 Найдено изображений: {len(image_files)}")
-print(f"📁 Найдено файлов разметки: {len(label_files)}")
+print(f"Найдено изображений: {len(image_files)}")
+print(f"Найдено файлов разметки: {len(label_files)}")
 
 if len(image_files) < 10:
     exit(1)
